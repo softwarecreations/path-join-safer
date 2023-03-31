@@ -1,0 +1,30 @@
+{
+  "name": "path-join-safer",
+  "version": "0.1.0",
+  "description": "An alternative to path.join() that prevents unanticipated .. directory access due to user-input but allows .. access done programmatically and intentionally.",
+  "main": "main.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarecreations/path-join-safer.git"
+  },
+  "keywords": [
+    "path",
+    "join",
+    "safe",
+    "safer",
+    "subdirectory",
+    "security"
+  ],
+  "author": "softwarecreations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softwarecreations/path-join-safer/issues"
+  },
+  "homepage": "https://github.com/softwarecreations/path-join-safer#readme"
+}
