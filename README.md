@@ -1,3 +1,9 @@
+[![NPM downloads](http://img.shields.io/npm/dt/path-join-safer.svg)](https://npmjs.org/package/path-join-safer)
+[![Version](https://img.shields.io/npm/v/path-join-safer.svg)](https://www.npmjs.com/package/path-join-safer)
+[![Dependencies](https://img.shields.io/librariesio/release/npm/path-join-safer)](https://libraries.io/npm/path-join-safer)
+[![License](https://img.shields.io/npm/l/path-join-safer)](https://npmjs.org/package/path-join-safer)
+![Code size](https://img.shields.io/github/languages/code-size/softwarecreations/path-join-safer.svg)
+
 # path-join-safer
 An alternative to path.join() that prevents unanticipated .. directory access due to user-input but allows .. access done programmatically and intentionally.
 
